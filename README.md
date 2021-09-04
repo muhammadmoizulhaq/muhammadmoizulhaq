@@ -23,24 +23,27 @@
   💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: moizulhaq914@gmail.com">moizulhaq914@gmail.com</a>
+  <br>
+  💻 Here is website(Portfolio): <a href="mmoizulhaq.github.io">mmoizulhaq.github.io</a>
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/css.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/master/images/github.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/cpp.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/UE_Logo_stacked_unreal-engine_black.png"></code>
+  <code><img title="C#" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/css.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/visualstudio.png"></code>
+  <code><img title="JSON" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/github.svg"></code>
 </p>
 <hr>
 
@@ -56,11 +59,11 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <!--<div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmoizulhaq&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmoizulhaq&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+  </div>-->
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=mmoizulhaq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
