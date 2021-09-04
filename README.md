@@ -33,7 +33,7 @@
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/cpp.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/UE_Logo_stacked_unreal-engine_black.png"></code>
+  <code><img title="Unreal Engine" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/UE_Logo_stacked_unreal-engine_black.png"></code>
   <code><img title="C#" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/mmoizulhaq/mmoizulhaq/blob/main/images/problemSolving.png"></code>
