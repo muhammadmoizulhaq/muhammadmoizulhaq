@@ -24,7 +24,7 @@
   <br>
   📫 How to reach me: <a href="mailto:moizulhaq914@gmail.com">moizulhaq914@gmail.com</a>
   <br>
-  💻 Here is website(Portfolio): <a href="mmoizulhaq.github.io">mmoizulhaq.github.io</a>
+  💻 Here is website(Portfolio): <a href="https://mmoizulhaq.github.io/">mmoizulhaq.github.io</a>
 </p>
 
 <hr>
