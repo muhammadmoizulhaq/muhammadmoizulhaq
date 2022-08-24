@@ -19,11 +19,11 @@
   <br>
   📚 I’m currently learning how to build Games with Unreal Engine.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" target="_blank" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:moizulhaq914@gmail.com">moizulhaq914@gmail.com</a>
   <br>
-  💻 Here is website(Portfolio): <a href="https://mmoizulhaq.github.io/">mmoizulhaq.github.io</a>
+  💻 Here is website(Portfolio): <a href="https://mmoizulhaq.github.io/" target="_blank">mmoizulhaq.github.io</a>
 </p>
 
 <hr>
