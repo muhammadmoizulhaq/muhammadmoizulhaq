@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammadmoizulhaq" target="_blank" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammadmoizulhaq" title="LinkedIn Profile" target="_blank"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
@@ -19,7 +19,7 @@
   <br>
   📚 I’m currently learning how to build Games with Unreal Engine.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" target="_blank" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" title="Issues" target="_blank">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:moizulhaq914@gmail.com">moizulhaq914@gmail.com</a>
   <br>
