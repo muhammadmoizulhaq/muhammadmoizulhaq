@@ -21,7 +21,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/mmoizulhaq/mmoizulhaq/issues/new" title="Issues" target="_blank">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto:moizulhaq914@gmail.com">moizulhaq914@gmail.com</a>
+  📫 How to reach me: <a href="mailto:moizulhaq914+2468@gmail.com">moizulhaq914+2468@gmail.com</a>
   <br>
   💻 Here is website(Portfolio): <a href="https://muhammadmoizulhaq.github.io/" target="_blank">muhammadmoizulhaq</a>
   <br>
