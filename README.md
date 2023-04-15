@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Moiz+ul+haq....;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
+
 # 💫 About Me:
 🔭 I’m currently working on my personal project<br>👯 I’m looking to collaborate on Gaming projects<br>🌱 I’m currently learning Game-play programming<br>💬 Ask me about Game development
 
