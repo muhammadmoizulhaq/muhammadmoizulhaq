@@ -32,3 +32,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadmoizulhaq&icon=3&color=9)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammadmoizulhaq/muhammadmoizulhaq/blob/main/images/github-user-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammadmoizulhaq/muhammadmoizulhaq/blob/main/images/github-user-contribution-light.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/muhammadmoizulhaq/muhammadmoizulhaq/blob/main/images/github-user-contribution-light.svg">
+</picture>
